@@ -15,9 +15,9 @@ Always excited to explore new technologies and create meaningful digital experie
 ---
 
 <div align="center">  
-  <a href="halimasa144@gmail.com">
+<!--   <a href="halimasa144@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>  
+  </a>   -->
   <a href="https://www.linkedin.com/in/syeda-halima-sadia/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
