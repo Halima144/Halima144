@@ -2,14 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Syeda+Halima+Sadia;" /> 
 </h1>   
 
-<h2 align="center">💻 A Passionate Full Stack MERN Developer from Pakistan 🇵🇰</h2> 
+<h2 align="center">💻 A Passionate Software  Developer from Pakistan 🇵🇰</h2> 
 
 ---
 
-<div align="center">  
-🌟 I'm Halima Sadia – an enthusiastic and goal-driven Software Engineer with a passion for building high-performance, responsive web applications.  
+<div align="center">   I'm Halima Sadia  an enthusiastic and goal-driven Software Engineer with a passion for building high-performance, responsive web applications.  
 I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and style my apps with **Tailwind CSS** for a clean and modern look.  
-Always excited to explore new technologies and create meaningful digital experiences! 🚀  
+Always excited to explore new technologies and create meaningful digital experiences! 
 </div>
 
 ---
@@ -25,7 +24,7 @@ Always excited to explore new technologies and create meaningful digital experie
 
 ---
 
-<h2 align="center">🚀💥 Tech Stack 💥🚀</h2>
+<h2 align="center">🚀 Tech Stack </h2>
 
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,javascript,html,css,git,github,vscode" />
@@ -42,4 +41,4 @@ Always excited to explore new technologies and create meaningful digital experie
 
 ---
 
-<h2 align="center">✨ Let’s Build, Learn & Grow Together ✨</h2>
+<h2 align="center">Let’s Build, Learn & Grow Together </h2>
