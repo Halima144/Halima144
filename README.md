@@ -13,7 +13,7 @@
 
 ##  About Me
 
-I'm a final-year Software Engineering student who builds **cross-platform mobile apps** with React Native, backed by **Node.js, Express & MongoDB**. I like turning ideas into apps people actually use — clean UI, solid logic, and a backend that doesn't fall over.
+I can  builds **cross-platform mobile apps** with React Native, backed by **Node.js, Express & MongoDB**. I like turning ideas into apps people actually use — clean UI, solid logic, and a backend that doesn't fall over.
 
 -  Currently building full-stack mobile apps with React Native
 -  Sharpening my skills in mobile architecture and clean API design
