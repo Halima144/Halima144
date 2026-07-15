@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=32&pause=1000&color=AB73D1&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Halima+%F0%9F%91%8B;React+Native+Developer;Building+Cross-Platform+Mobile+Apps" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/📍_Lahore,_Pakistan-AB73D1?style=flat-square&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/🎓_BS_Software_Engineering-AB73D1?style=flat-square&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/💼_Open_to_Work-AB73D1?style=flat-square&labelColor=1a1a1a" />
 </p>
@@ -12,18 +11,18 @@
 
 <br/>
 
-## 👩‍💻 About Me
+##  About Me
 
 I'm a final-year Software Engineering student who builds **cross-platform mobile apps** with React Native, backed by **Node.js, Express & MongoDB**. I like turning ideas into apps people actually use — clean UI, solid logic, and a backend that doesn't fall over.
 
-- 🔭 Currently building **SelfBuilder** — a personal development app with challenges, streaks, leaderboards & payments
-- 🌱 Sharpening my skills in mobile architecture and clean API design
-- 🎯 Looking for a **React Native Developer** role in Lahore / Islamabad
-- ⚡ Fun fact: I enjoy statistics and math almost as much as I enjoy debugging at midnight
+-  Currently building full-stack mobile apps with React Native
+-  Sharpening my skills in mobile architecture and clean API design
+-  Looking for a **React Native Developer** role
+-  Fun fact: I enjoy statistics and math almost as much as I enjoy debugging at midnight
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -44,25 +43,7 @@ I'm a final-year Software Engineering student who builds **cross-platform mobile
 
 <br/>
 
-## 🚀 Featured Project
-
-<div align="center">
-
-### SelfBuilder — Personal Development Mobile App
-
-A full-stack React Native app for building better habits — daily challenges, streaks, leaderboards, badges, and in-app payments via Easypaisa & JazzCash.
-
-<img src="https://img.shields.io/badge/React_Native-frontend-AB73D1?style=flat-square&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Node.js_%2F_Express-backend-AB73D1?style=flat-square&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/MongoDB-database-AB73D1?style=flat-square&labelColor=1a1a1a" />
-
-**[View Repository →](https://github.com/Halima144/SelfBuilder)**
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -73,7 +54,7 @@ A full-stack React Native app for building better habits — daily challenges, s
 
 <br/>
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
