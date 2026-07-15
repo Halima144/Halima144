@@ -4,7 +4,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/🎓_BS_Software_Engineering-AB73D1?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/💼_Open_to_Work-AB73D1?style=flat-square&labelColor=1a1a1a" />
+  <!-- <img src="https://img.shields.io/badge/💼_Open_to_Work-AB73D1?style=flat-square&labelColor=1a1a1a" /> -->
 </p>
 
 </div>
