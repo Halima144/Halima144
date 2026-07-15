@@ -7,7 +7,7 @@
 
 <div align="center">   
 I'm Halima Sadia, an enthusiastic and goal-driven Software Engineer specializing in <b>Cross-Platform Mobile App Development</b> using <b>React Native</b>.  
-I build the backend for my apps with the <b>MERN Stack</b> (MongoDB, Express.js, React.js, Node.js), creating full-stack mobile experiences from UI to API.  
+I build the backend for my apps with <b>Node.js, Express.js & MongoDB</b>, creating full-stack mobile experiences from UI to API.  
 Always excited to explore new technologies and create meaningful digital experiences! 
 </div>
 
@@ -26,20 +26,20 @@ Always excited to explore new technologies and create meaningful digital experie
 
 <h2 align="center">🚀 Tech Stack</h2>
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,tailwind,javascript,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,javascript,html,css,git,github,vscode" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native_CLI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Halima144&show_icons=true&theme=midnight-purple" height="200px" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halima144&layout=compact&theme=midnight-purple" height="200px" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Halima144&show_icons=true&title_color=ab73d1&icon_color=ab73d1&text_color=ffffff&bg_color=0d1117&hide_border=true" height="200px" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halima144&layout=compact&title_color=ab73d1&text_color=ffffff&bg_color=0d1117&hide_border=true" height="200px" />  
 </p>
 
 ---
