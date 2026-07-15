@@ -38,10 +38,18 @@ Always excited to explore new technologies and create meaningful digital experie
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Halima144&show_icons=true&title_color=ab73d1&icon_color=ab73d1&text_color=ffffff&bg_color=0d1117&hide_border=true" height="200px" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halima144&layout=compact&title_color=ab73d1&text_color=ffffff&bg_color=0d1117&hide_border=true" height="200px" />  
+  <img src="https://github-stats-extended.vercel.app/api?username=Halima144&show_icons=true&title_color=ab73d1&icon_color=ab73d1&text_color=ffffff&bg_color=0d1117&hide_border=true" height="200px" />  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Halima144&layout=compact&title_color=ab73d1&text_color=ffffff&bg_color=0d1117&hide_border=true" height="200px" />  
 </p>
 
 ---
 
 <h2 align="center">Let's Build, Learn & Grow Together 🚀</h2>
+
+<p align="center">
+  Open to <b>React Native Developer</b> opportunities — let's connect!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Halima144&style=for-the-badge&color=ab73d1" alt="Profile views" />
+</p>
