@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=32&pause=1000&color=AB73D1&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Halima+%F0%9F%91%8B;React+Native+Developer;Building+Cross-Platform+Mobile+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=32&pause=1000&color=AB73D1&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Halima+%F0%9F%91%8B;Full+Stack+Mobile+App+Developer;Building+Cross-Platform+Mobile+Apps+Using+React+Native" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/🎓_BS_Software_Engineering-AB73D1?style=flat-square&labelColor=1a1a1a" />
